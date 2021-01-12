@@ -172,12 +172,12 @@ cout<<"><=======================================================================
 {
 	system("Color 46");
 	
-	cout<<"\t\t\t||    ||     ||x          x||    ==========\n";
-	cout<<"\t\t\t||    ||     || x        x ||        ||\n";
-	cout<<"\t\t\t||    ||     ||   x     x  ||        ||\n";
-	cout<<"\t\t\t||    ||     ||    x   x   ||        ||\n";
-	cout<<"\t\t\t||    ||     ||     x x    ||        ||\n";
-	cout<<"\t\t\t||    ||     ||      x     ||        ||\n";
+	cout<<"\t\t\t||*        ||     ==========\n";
+	cout<<"\t\t\t||  *      ||         ||\n";
+	cout<<"\t\t\t||    *    ||         ||\n";
+	cout<<"\t\t\t||     *   ||         ||\n";
+	cout<<"\t\t\t||      *  ||         ||\n";
+	cout<<"\t\t\t||        *||         ||\n";
 	cout<<"\n\n\n\n\n\t\t\t    NOTICE WILL BE SHOWN HERE IF ANY!!!\n\n\n\n\n";
 	Sleep(5000);
 	display();
